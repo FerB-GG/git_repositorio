@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1,worlds2022,isurus,lla">
+	<title>League Of Legends</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<link rel="icon" href="worlds logo.ico">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" type="text/css" href="normalize.ccs">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vidaloka&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+ <body class="videofondo">
+	
+	<header class="nav-gg">
+		<nav >
+		  <ul class="cosasdelnav">
+			<div class="nav-div">
+			 <div><a href="https://teamisurus.com">ISURUS GAMING</a></div>
+			 
+			 <div><a href="https://madlions.com">MAD LIONS</a></div>
+			 
+			 <div><a href="https://lolesports.com">OTROS GAMES</a></div>
+			</div>
+			</ul>	
+		</nav>
+
+	</header>
+	
+			<article>
+			<div class="todo-section">
+				<section >
+					<div class="fondo-titulo">
+						<video id="video-fondotit"  muted autoplay loop  >
+							<source src="fondotitulo.mp4" type="video/mp4">
+						</video>
+						
+						<div class="titulo-gg">	
+							<h1 class="titulo-gg__h1">
+								WORLDS 2022
+							</h1>
+					
+							<h2 class="titulo-gg__h2">Game de Apertura ISURUS vs MAD LIONS</h2>
+							
+						
+							
+						</div>
+					</div>
+		
+	
+					<div class="section-rosterisg">
+							<div class="titulo-rosterisg">
+									ROSTER ISURUS GAMING<br>
+							</div>
+							<div class="contenedor-isurus">
+								<div class="roster-isurus">
+										<div class="roles-isg">
+										<div>
+											<p>Top lane</p>
+										</div>
+										<div>
+											<p>Jungla</p>
+										</div>
+										<div>
+											<p>Mid lane</p>
+										</div>
+										<div>
+											<p>Adc</p>
+										</div>
+										<div>
+											<p>Support</p>
+										</div>
+										</div>
+										<div class="div-proplayerisg">
+											<p class="nombresplayers">ADD</p>
+											<p class="nombresplayers">GRELL</p>
+											<p class="nombresplayers">SEIYA</p>
+											<p class="nombresplayers">GAVOTTO</p>
+											<p class="nombresplayers">JELLY</p>
+										</div>
+								</div>
+								<div class="cajalogo-isurus">
+										<div class="logoisurusgaming">
+											<img id="isurus-png" src="isuruslogo.png" alt="">
+										</div>
+								</div>
+							</div>
+							
+					</div>
+					<div class="caja-imageisg">
+						<div class="img-rosterisg">
+							<img  id="imageroster-jpg" src="rosterisurus.jpg" alt="">	
+						</div>	
+					</div>
+							
+						<div class="section-rostermdl" >
+							<div class="titulo-rostermdl">ROSTER MAD LIONS</div>
+								<p class="roster-mdl">
+									
+									
+									<div>
+										Top lane
+									</div>
+									<div>
+										Jungla
+									</div>
+									<div>
+										Mid lane
+									</div>
+									<div>
+										Adc
+									</div>
+									<div>
+										Support
+									</div>
+								</p>
+								</div>
+								<div class="img-rostermdl">
+									<div>
+										<img id="rostermdl-jpg" src="rostermadlions.jpg" alt="">
+									</div>
+								</div>	
+						<div>
+							<p>
+								FASE DE ENTRADA<br>
+								DIA 1
+							</p>
+								<table>
+									<tr>
+										<td><b>ISG</b></td>
+										<td><b>VS</b></td>
+										<td><b>MDL</b></td>
+									</tr>
+									<tr>
+										<td><b>FNC</b></td>
+										<td><b>VS</b></td>
+										<td><b>EG</b></td>
+									</tr>
+									<tr>
+										<td><b>LLL</b></td>
+										<td><b>VS</b></td>
+										<td><b>BYG</b></td>
+									</tr>
+									<tr>
+										<td><b>MAD</b></td>
+										<td><b>VS</b></td>
+										<td><b>IW</b></td>
+									</tr>
+									<tr>
+										<td><b>CHF</b></td>
+										<td><b>VS</b></td>
+										<td><b>FNC</b></td>
+									</tr>
+									<tr>
+										<td><b>DFM</b></td>
+										<td><b>VS</b></td>
+										<td><b>LLL</b></td>
+									</tr>
+									<tr>
+										<td><b>SGB</b></td>
+										<td><b>VS</b></td>
+										<td><b>IW</b></td>
+									</tr>
+									<tr>
+										<td><b>DRX</b></td>
+										<td><b>VS</b></td>
+										<td><b>RNG</b></td>
+									</tr>
+								</table>
+						</div>
+			
+				</section>
+			</div>
+		</article>
+		
+
+		<aside>
+			<h2>Games en vivo</h2>
+		</aside>
+	
+		<footer>
+			<div>
+				<p>
+				Canal de Youtube <a href="https://www.youtube.com/c/lla" target="_blank">LLA(Liga Latinoamerica)</a>
+				</p>
+			</div>
+			<h4>Copyright - Todos los derechos reservados</h4>
+
+		</footer>
+		
+			<video id="video-fondopag"  muted autoplay loop  >
+				<source src="fondopagina.mp4" type="video/mp4">
+			</video>
+			
+	</body>
+</html>
