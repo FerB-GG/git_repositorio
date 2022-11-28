@@ -1,0 +1,243 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.videofondo{
+    position: relative;
+    position: static;
+    
+    
+    
+}
+#video-fondopag{
+    position: relative;
+    position: absolute;
+    position: fixed;
+    object-fit:cover ;   
+        top: 0;
+        left: 0;
+    width: 100%;
+    height: 100%;     
+            
+}
+.nav-gg{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background: black;
+    z-index: 1000;
+}
+.cosasdelnav{
+    color: blanchedalmond;
+    position: relative;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+.nav-div{
+    display: flex;
+    text-align: center;
+}
+.nav-div div{
+    position: relative;
+    width: 33%;
+    padding: 1.7em 0;
+    font-size: 1.3em;
+}
+.fondo-titulo{
+    
+    position: relative;
+    
+    z-index: 50;
+    height: 160px;
+    
+    
+}
+#video-fondotit{
+    position: relative;
+    position: absolute;
+    
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 160px;
+    object-fit:cover ;
+    
+    
+    z-index: 55;
+}
+.titulo-gg{
+    position:relative;
+    height: 160px;
+    width: 100%;
+   
+    padding: 5px;
+    
+    box-sizing: border-box;
+    z-index: 100;
+
+}
+
+
+.titulo-gg__h1{
+    color: rgb(197, 120, 255);
+    font-size: 3em;
+    line-height: 2;
+    font-family: 'Anton',sans-serif ;
+    text-align: center;
+    
+   
+}
+.titulo-gg__h2{
+    color: rgb(169, 40, 195);
+  font-size: 2em;
+  font-family: 'Questrial', sans-serif;
+  line-height: 1;
+  text-align: center;
+
+}
+.section-rosterisg{
+    position: relative;
+    z-index: 150;
+    
+    
+}
+.titulo-rosterisg{
+    font-family: 'Vidaloka', serif;
+    color: rgb(197, 192, 211);
+    line-height: 3em;
+    text-align: center;
+    height: 80px;
+    font-size: 2em;
+     
+}
+.contenedor-isurus{
+    position: relative;
+    width: 100%;
+    
+    height: auto;
+    display: flex;
+}
+.roster-isurus {
+    position: relative;
+    z-index: 250;
+    display: flex;
+    
+    
+    width: 60%;
+    
+    padding: 50px 0;
+   
+    
+}
+.roster-isurus div{
+    
+    
+    color: blanchedalmond;
+}
+.div-proplayerisg{
+    z-index: 320;
+    position: relative;
+    font-family: 'Permanent Marker', cursive;
+    top: 0;
+    right: 0;
+    width: 50%;
+    font-size: 3em;
+}
+.roles-isg{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    width: 50%;
+    
+}
+.cajalogo-isurus{
+    position: relative;
+    z-index: 300;
+    
+    width: 40%;
+    
+    top: 0;
+    right: 0;
+   
+    padding: 50px 0;
+    
+}
+
+.logoisurusgaming{ 
+    
+
+    
+    padding: 50px 0;
+    
+
+}
+
+#isurus-png{
+    width: 100%;
+  height: 100%;  
+    
+  
+ object-fit: contain;
+ 
+}
+.caja-imageisg{
+    position: relative;
+    width: 100%;
+    z-index: 450;
+    
+
+    
+    
+}
+
+.img-rosterisg{
+      
+    padding: 100px;
+}
+#imageroster-jpg{
+    width: 100%;
+    height: 100%;  
+       
+    
+   object-fit: contain;
+    
+}
+
+
+
+
+.titulo-rostermdl{
+    font-family: 'Vidaloka', serif;
+    color: rgb(217, 49, 255);
+    line-height: 3em;
+    z-index: 500;
+}
+.roster-mdl{
+    
+    font-family: 'Montserrat', sans-serif;
+}
+.image-rostermdl{
+    position: relative;
+    width: 100%;
+    z-index: 700; 
+    
+}
+#rostermdl-jpg{
+    width: 100%;
+    height: 100%;  
+      
+    
+   object-fit: contain;
+    
+}
+.todo-section{
+    position: relative;
+    top: 80px;
+}
